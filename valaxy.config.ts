@@ -16,8 +16,8 @@ export default defineValaxyConfig<UserThemeConfig>({
 
   themeConfig: {
     banner: {
-      enable: false,
-      title: 'Wqz',
+      enable: true,
+      title: '',
     },
 
     pages: [
