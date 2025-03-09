@@ -1,5 +1,6 @@
 import type { UserThemeConfig } from 'valaxy-theme-yun'
 import { defineValaxyConfig } from 'valaxy'
+import { addonWaline } from 'valaxy-addon-waline'
 
 // add icons what you will need
 const safelist = [
@@ -17,7 +18,7 @@ export default defineValaxyConfig<UserThemeConfig>({
   themeConfig: {
     banner: {
       enable: true,
-      title: '云游君的小站',
+      title: 'Wqz',
     },
 
     pages: [
@@ -34,13 +35,25 @@ export default defineValaxyConfig<UserThemeConfig>({
         color: 'hotpink',
       },
     ],
-
+siteConfig: {
+    // 启用评论
+    comment: {
+      enable: true
+    },
+  },
+  // 设置 valaxy-addon-waline 配置项
+  addons: [
+    addonWaline({
+      // Waline 配置项，参考 https://waline.js.org/reference/client/props.html
+      serverURL: 'https://your-waline-url',
+    }),
+  ],
     footer: {
       since: 2016,
       beian: {
         enable: true,
-        icp: '苏ICP备17038157号',
-      },
+  
+        icp: '苏ICP备17038157号',    },
     },
   },
 
