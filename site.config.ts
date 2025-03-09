@@ -1,91 +1,63 @@
 import { defineSiteConfig } from 'valaxy'
 
 export default defineSiteConfig({
-  url: 'https://valaxy.site/',
+  url: 'https://buptwqz.github.io/',
   lang: 'zh-CN',
-  title: 'Valaxy Theme Yun',
+  title: 'Wqz\'s Blog',
+  timezone: 'Asia/Shanghai',
+  
   author: {
-    name: '云游君',
+    name: 'wqzLorenzo',
   },
-  description: 'Valaxy Theme Yun Preview.',
+  description: 'Make Myself Greater Again!',
   social: [
     {
-      name: 'RSS',
-      link: '/atom.xml',
-      icon: 'i-ri-rss-line',
-      color: 'orange',
-    },
-    {
-      name: 'QQ 群 1050458482',
-      link: 'https://qm.qq.com/cgi-bin/qm/qr?k=kZJzggTTCf4SpvEQ8lXWoi5ZjhAx0ILZ&jump_from=webapi',
-      icon: 'i-ri-qq-line',
-      color: '#12B7F5',
-    },
-    {
       name: 'GitHub',
-      link: 'https://github.com/YunYouJun',
+      link: 'https://github.com/buptwqz',
       icon: 'i-ri-github-line',
       color: '#6e5494',
     },
     {
       name: '微博',
-      link: 'https://weibo.com/jizhideyunyoujun',
+      link: 'https://weibo.com/wqz123',
       icon: 'i-ri-weibo-line',
       color: '#E6162D',
     },
     {
-      name: '豆瓣',
-      link: 'https://www.douban.com/people/yunyoujun/',
-      icon: 'i-ri-douban-line',
-      color: '#007722',
-    },
-    {
       name: '网易云音乐',
-      link: 'https://music.163.com/#/user/home?id=247102977',
+      link: 'https://y.music.163.com/m/user?id=607828687',
       icon: 'i-ri-netease-cloud-music-line',
       color: '#C20C0C',
     },
     {
-      name: '知乎',
-      link: 'https://www.zhihu.com/people/yunyoujun/',
-      icon: 'i-ri-zhihu-line',
-      color: '#0084FF',
-    },
-    {
       name: '哔哩哔哩',
-      link: 'https://space.bilibili.com/1579790',
+      link: 'https://space.bilibili.com/13402153',
       icon: 'i-ri-bilibili-line',
       color: '#FF8EB3',
     },
     {
-      name: '微信公众号',
-      link: 'https://cdn.yunyoujun.cn/img/about/white-qrcode-and-search.jpg',
-      icon: 'i-ri-wechat-2-line',
-      color: '#1AAD19',
-    },
-    {
       name: 'Twitter',
-      link: 'https://twitter.com/YunYouJun',
+      link: 'https://x.com/wqz98346046',
       icon: 'i-ri-twitter-x-fill',
       color: 'black',
     },
     {
-      name: 'Telegram Channel',
-      link: 'https://t.me/elpsycn',
-      icon: 'i-ri-telegram-line',
+      name: 'Instagram',
+      link: 'https://www.instagram.com/wqz_lorenzo?igsh=MndjeWM1cmx3ZzU4',
+      icon: 'ri-instagram-line',
       color: '#0088CC',
     },
     {
       name: 'E-Mail',
-      link: 'mailto:me@yunyoujun.cn',
+      link: 'wqzlorenzo@gmail.com',
       icon: 'i-ri-mail-line',
       color: '#8E71C1',
     },
     {
-      name: 'Travelling',
-      link: 'https://www.travellings.cn/go.html',
-      icon: 'i-ri-train-line',
-      color: 'var(--va-c-text)',
+      name: 'RedNote',
+      link: 'https://www.xiaohongshu.com/user/profile/6015547d000000000100bdc8?xsec_token=YBvucXq8d2-WSUjiPP_xYqA8Q6bKdnPAkTjnCxJmcUN7k%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=6015547d000000000100bdc8&apptime=1741514777&share_id=ed2c22b629a349eaa4a1975ebf69ae20&share_channel=copy_link',
+      icon: 'ri-book-fill',
+      color: '#FF0000',
     },
   ],
 
@@ -94,7 +66,7 @@ export default defineSiteConfig({
   },
 
   sponsor: {
-    enable: true,
+    enable: false,
     title: '我很可爱，请给我钱！',
     methods: [
       {

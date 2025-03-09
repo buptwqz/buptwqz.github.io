@@ -1,6 +1,5 @@
 import type { UserThemeConfig } from 'valaxy-theme-yun'
 import { defineValaxyConfig } from 'valaxy'
-import { addonWaline } from 'valaxy-addon-waline'
 
 // add icons what you will need
 const safelist = [
@@ -17,42 +16,28 @@ export default defineValaxyConfig<UserThemeConfig>({
 
   themeConfig: {
     banner: {
-      enable: true,
+      enable: false,
       title: 'Wqz',
     },
 
     pages: [
-      {
-        name: '我的小伙伴们',
-        url: '/links/',
-        icon: 'i-ri-genderless-line',
-        color: 'dodgerblue',
-      },
-      {
-        name: '喜欢的女孩子',
-        url: '/girls/',
-        icon: 'i-ri-women-line',
-        color: 'hotpink',
-      },
+      // {
+      //   name: '我的小伙伴们',
+      //   url: '/links/',
+      //   icon: 'i-ri-genderless-line',
+      //   color: 'dodgerblue',
+      // },
+      // {
+      //   name: '喜欢的女孩子',
+      //   url: '/girls/',
+      //   icon: 'i-ri-women-line',
+      //   color: 'hotpink',
+      // },
     ],
-siteConfig: {
-    // 启用评论
-    comment: {
-      enable: true
-    },
-  },
-  // 设置 valaxy-addon-waline 配置项
-  addons: [
-    addonWaline({
-      // Waline 配置项，参考 https://waline.js.org/reference/client/props.html
-      serverURL: 'https://your-waline-url',
-    }),
-  ],
     footer: {
-      since: 2016,
+      //since: 2016,
       beian: {
         enable: true,
-  
         icp: '苏ICP备17038157号',    },
     },
   },
