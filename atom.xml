@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://buptwqz.github.io/</id>
+    <title>Wqz's Blog</title>
+    <updated>2025-03-10T15:19:55.881Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>wqzLorenzo</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://buptwqz.github.io/"/>
+    <link rel="self" href="https://buptwqz.github.io/atom.xml"/>
+    <subtitle>Make Myself Greater Again!</subtitle>
+    <logo>https://img.picui.cn/free/2025/03/10/67ce9cc5d4f36.png</logo>
+    <icon>https://buptwqz.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © wqzLorenzo</rights>
+    <entry>
+        <title type="html"><![CDATA[MySQL报错合集]]></title>
+        <id>https://buptwqz.github.io/posts/Mysql报错</id>
+        <link href="https://buptwqz.github.io/posts/Mysql报错"/>
+        <updated>2024-07-27T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h6>mysql服务无法启动 服务没有报告任何错误 解决方法</h6>
+<p>1.查看C:\Windows\System32\drivers\etc\hosts 文件，localhost地址有无修改</p>
+<p>2.安</p>
+<br/><p>访问 <a href="https://buptwqz.github.io/posts/Mysql报错" target="_blank">https://buptwqz.github.io/posts/Mysql报错</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wqzLorenzo</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-03-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日随笔]]></title>
+        <id>https://buptwqz.github.io/posts/今日随笔</id>
+        <link href="https://buptwqz.github.io/posts/今日随笔"/>
+        <updated>2024-10-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>一天又一天，稀松平常。前几天，我意识到我应该学点啥，就像是GitHub的一些贡献者一样，试着做一点东西。比如，我可以学一学计算机相关知识，语言，读更多书，看更多有用的视频。少看手机，多做些事。我想过的</p>
+<br/><p>访问 <a href="https://buptwqz.github.io/posts/今日随笔" target="_blank">https://buptwqz.github.io/posts/今日随笔</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wqzLorenzo</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-10-28T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JVM运行机制及原理]]></title>
+        <id>https://buptwqz.github.io/posts/JVM运行机制及原理</id>
+        <link href="https://buptwqz.github.io/posts/JVM运行机制及原理"/>
+        <updated>2025-03-09T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://buptwqz.github.io/posts/JVM运行机制及原理" target="_blank">https://buptwqz.github.io/posts/JVM运行机制及原理</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wqzLorenzo</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java中CPU过高占用排查]]></title>
+        <id>https://buptwqz.github.io/posts/Java中CPU过高占用排查</id>
+        <link href="https://buptwqz.github.io/posts/Java中CPU过高占用排查"/>
+        <updated>2025-03-09T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://buptwqz.github.io/posts/Java中CPU过高占用排查" target="_blank">https://buptwqz.github.io/posts/Java中CPU过高占用排查</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wqzLorenzo</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java算法ACM模式模板]]></title>
+        <id>https://buptwqz.github.io/posts/Java算法ACM模式模板</id>
+        <link href="https://buptwqz.github.io/posts/Java算法ACM模式模板"/>
+        <updated>2025-03-09T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://buptwqz.github.io/posts/Java算法ACM模式模板" target="_blank">https://buptwqz.github.io/posts/Java算法ACM模式模板</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wqzLorenzo</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis使用单线程的好处]]></title>
+        <id>https://buptwqz.github.io/posts/Redis使用单线程的好处</id>
+        <link href="https://buptwqz.github.io/posts/Redis使用单线程的好处"/>
+        <updated>2025-03-09T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://buptwqz.github.io/posts/Redis使用单线程的好处" target="_blank">https://buptwqz.github.io/posts/Redis使用单线程的好处</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wqzLorenzo</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-03-09T16:00:00.000Z</published>
+    </entry>
+</feed>

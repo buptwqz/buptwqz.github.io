@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Wqz's Blog</title>
+        <link>https://buptwqz.github.io/</link>
+        <description>Make Myself Greater Again!</description>
+        <lastBuildDate>Mon, 10 Mar 2025 15:19:55 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <image>
+            <title>Wqz's Blog</title>
+            <url>https://img.picui.cn/free/2025/03/10/67ce9cc5d4f36.png</url>
+            <link>https://buptwqz.github.io/</link>
+        </image>
+        <copyright>CC BY-NC-SA 4.0 2025 © wqzLorenzo</copyright>
+        <atom:link href="https://buptwqz.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MySQL报错合集]]></title>
+            <link>https://buptwqz.github.io/posts/Mysql报错</link>
+            <guid>https://buptwqz.github.io/posts/Mysql报错</guid>
+            <pubDate>Sun, 09 Mar 2025 16:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<h6>mysql服务无法启动 服务没有报告任何错误 解决方法</h6>
+<p>1.查看C:\Windows\System32\drivers\etc\hosts 文件，localhost地址有无修改</p>
+<p>2.安</p>
+<br/><p>访问 <a href="https://buptwqz.github.io/posts/Mysql报错" target="_blank">https://buptwqz.github.io/posts/Mysql报错</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (wqzLorenzo)</author>
+        </item>
+        <item>
+            <title><![CDATA[今日随笔]]></title>
+            <link>https://buptwqz.github.io/posts/今日随笔</link>
+            <guid>https://buptwqz.github.io/posts/今日随笔</guid>
+            <pubDate>Mon, 28 Oct 2024 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<p>一天又一天，稀松平常。前几天，我意识到我应该学点啥，就像是GitHub的一些贡献者一样，试着做一点东西。比如，我可以学一学计算机相关知识，语言，读更多书，看更多有用的视频。少看手机，多做些事。我想过的</p>
+<br/><p>访问 <a href="https://buptwqz.github.io/posts/今日随笔" target="_blank">https://buptwqz.github.io/posts/今日随笔</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (wqzLorenzo)</author>
+        </item>
+        <item>
+            <title><![CDATA[JVM运行机制及原理]]></title>
+            <link>https://buptwqz.github.io/posts/JVM运行机制及原理</link>
+            <guid>https://buptwqz.github.io/posts/JVM运行机制及原理</guid>
+            <pubDate>Sat, 09 Mar 2024 16:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<br/><p>访问 <a href="https://buptwqz.github.io/posts/JVM运行机制及原理" target="_blank">https://buptwqz.github.io/posts/JVM运行机制及原理</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (wqzLorenzo)</author>
+        </item>
+        <item>
+            <title><![CDATA[Java中CPU过高占用排查]]></title>
+            <link>https://buptwqz.github.io/posts/Java中CPU过高占用排查</link>
+            <guid>https://buptwqz.github.io/posts/Java中CPU过高占用排查</guid>
+            <pubDate>Sat, 09 Mar 2024 16:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<br/><p>访问 <a href="https://buptwqz.github.io/posts/Java中CPU过高占用排查" target="_blank">https://buptwqz.github.io/posts/Java中CPU过高占用排查</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (wqzLorenzo)</author>
+        </item>
+        <item>
+            <title><![CDATA[Java算法ACM模式模板]]></title>
+            <link>https://buptwqz.github.io/posts/Java算法ACM模式模板</link>
+            <guid>https://buptwqz.github.io/posts/Java算法ACM模式模板</guid>
+            <pubDate>Sat, 09 Mar 2024 16:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<br/><p>访问 <a href="https://buptwqz.github.io/posts/Java算法ACM模式模板" target="_blank">https://buptwqz.github.io/posts/Java算法ACM模式模板</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (wqzLorenzo)</author>
+        </item>
+        <item>
+            <title><![CDATA[Redis使用单线程的好处]]></title>
+            <link>https://buptwqz.github.io/posts/Redis使用单线程的好处</link>
+            <guid>https://buptwqz.github.io/posts/Redis使用单线程的好处</guid>
+            <pubDate>Sat, 09 Mar 2024 16:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[<br/><p>访问 <a href="https://buptwqz.github.io/posts/Redis使用单线程的好处" target="_blank">https://buptwqz.github.io/posts/Redis使用单线程的好处</a> 阅读全文。</p>]]></content:encoded>
+            <author>i@valaxy.site (wqzLorenzo)</author>
+        </item>
+    </channel>
+</rss>
