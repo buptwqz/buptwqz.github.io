@@ -8,6 +8,7 @@ export default defineSiteConfig({
   
   author: {
     name: 'wqzLorenzo',
+    avatar: 'D:\\WQZ\\Code\\valaxy-blog\\public\\avatar.png',
   },
   description: 'Make Myself Greater Again!',
   social: [
@@ -45,11 +46,11 @@ export default defineSiteConfig({
       name: 'Instagram',
       link: 'https://www.instagram.com/wqz_lorenzo?igsh=MndjeWM1cmx3ZzU4',
       icon: 'ri-instagram-line',
-      color: '#0088CC',
+      color: '#E31E8E',
     },
     {
       name: 'E-Mail',
-      link: 'wqzlorenzo@gmail.com',
+      link: 'mailto:wqzlorenzo@gmail.com',
       icon: 'i-ri-mail-line',
       color: '#8E71C1',
     },
