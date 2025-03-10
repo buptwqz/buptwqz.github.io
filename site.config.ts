@@ -6,6 +6,7 @@ export default defineSiteConfig({
   title: 'Wqz\'s Blog',
   timezone: 'Asia/Shanghai',
   subtitle: '',
+
   author: {
     name: 'wqzLorenzo',
     avatar:'https://img.picui.cn/free/2025/03/10/67ce9cc5d4f36.png',
@@ -20,6 +21,16 @@ export default defineSiteConfig({
 
   comment: {
     enable: true,
+  },
+
+  statistics: {
+    enable: true,
+    readTime: {
+      speed: {
+        cn: 300,
+        en: 100,
+      }
+    }
   },
 
   social: [
