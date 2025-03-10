@@ -8,7 +8,7 @@ export default defineSiteConfig({
   
   author: {
     name: 'wqzLorenzo',
-    avatar: 'D:\\WQZ\\Code\\valaxy-blog\\public\\avatar.png',
+    avatar:'\\public\\avatar.png',
   },
   description: 'Make Myself Greater Again!',
   social: [
@@ -45,7 +45,7 @@ export default defineSiteConfig({
     {
       name: 'Instagram',
       link: 'https://www.instagram.com/wqz_lorenzo?igsh=MndjeWM1cmx3ZzU4',
-      icon: 'ri-instagram-line',
+      icon: 'i-ri-instagram-line',
       color: '#E31E8E',
     },
     {
@@ -57,13 +57,13 @@ export default defineSiteConfig({
     {
       name: 'RedNote',
       link: 'https://www.xiaohongshu.com/user/profile/6015547d000000000100bdc8?xsec_token=YBvucXq8d2-WSUjiPP_xYqA8Q6bKdnPAkTjnCxJmcUN7k%3D&xsec_source=app_share&xhsshare=CopyLink&appuid=6015547d000000000100bdc8&apptime=1741514777&share_id=ed2c22b629a349eaa4a1975ebf69ae20&share_channel=copy_link',
-      icon: 'ri-book-fill',
+      icon: 'i-ri-book-fill',
       color: '#FF0000',
     },
   ],
 
   search: {
-    enable: false,
+    enable: true,
   },
 
   sponsor: {
@@ -89,5 +89,8 @@ export default defineSiteConfig({
         icon: 'i-ri-wechat-pay-line',
       },
     ],
+  },
+  license: {
+    enabled: false,
   },
 })
