@@ -5,7 +5,7 @@ export default defineSiteConfig({
   lang: 'zh-CN',
   title: 'Wqz\'s Blog',
   timezone: 'Asia/Shanghai',
-  
+  subtitle: '',
   author: {
     name: 'wqzLorenzo',
     avatar:'https://img.picui.cn/free/2025/03/10/67ce9cc5d4f36.png',
