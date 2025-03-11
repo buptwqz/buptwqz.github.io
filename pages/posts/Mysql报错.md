@@ -1,6 +1,6 @@
 ---
 title: MySQL报错合集
-date: 2024-07-28
+date: 2025-03-10
 updated: 2025-03-10
 categories: MySQL
 tags:
@@ -8,7 +8,7 @@ tags:
   - MySQL
 top: 1
 ---
-[TOC]
+[[toc]]
 ###### mysql服务无法启动 服务没有报告任何错误 解决方法
 1.查看C:\Windows\System32\drivers\etc\hosts 文件，localhost地址有无修改
 
