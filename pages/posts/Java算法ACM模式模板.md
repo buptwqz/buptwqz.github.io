@@ -1,7 +1,7 @@
 ---
 title: Java算法ACM模式模板
-date: 2025-3-10
-updated: 2024-3-10
+date: 2025-03-10
+updated: 2024-03-10
 categories: Java
 tags:
   - 后端开发
