@@ -13,7 +13,6 @@ export default defineValaxyConfig<UserThemeConfig>({
   // site config see site.config.ts
 
   theme: 'yun',
-
   themeConfig: {
     banner: {
       enable: true,
