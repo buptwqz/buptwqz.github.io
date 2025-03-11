@@ -1,7 +1,7 @@
 ---
 title: Redis使用单线程的好处
 date: 2025-03-10
-updated: 2025-03-10
+updated: 2025-03-11
 categories: Redis
 tags:
   - 后端开发
