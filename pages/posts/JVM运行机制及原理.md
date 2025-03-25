@@ -1,7 +1,7 @@
 ---
 title: JVM运行机制及原理
 date: 2025-3-10
-updated: 2024-3-25
+updated: 2025-3-25
 categories: Java
 tags:
   - 后端开发
