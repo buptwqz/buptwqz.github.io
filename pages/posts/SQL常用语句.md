@@ -1,7 +1,7 @@
 ---
 title: SQL常用语句
 date: 2025-03-10
-updated: 2025-03-11
+updated: 2025-03-25
 categories: MySQL
 tags:
   - 后端开发
