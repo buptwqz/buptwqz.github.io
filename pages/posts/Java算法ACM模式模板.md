@@ -8,7 +8,7 @@ tags:
   - Java
 top: 1
 ---
-###### ACM模式构建二叉树
+#### ACM模式构建二叉树
 ```java
 import java.util.Scanner;
 public class Solution {

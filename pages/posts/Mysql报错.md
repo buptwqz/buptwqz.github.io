@@ -9,7 +9,7 @@ tags:
 top: 1
 ---
 [[toc]]
-###### mysql服务无法启动 服务没有报告任何错误 解决方法
+#### mysql服务无法启动 服务没有报告任何错误 解决方法
 1.查看C:\Windows\System32\drivers\etc\hosts 文件，localhost地址有无修改
 
 2.安装路径下若没有my.ini文件，可在安装路径下新建一个my.ini文件，内容如下：
