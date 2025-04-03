@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://buptwqz.github.io/</id>
+    <title>Wqz's Blog</title>
+    <updated>2025-04-03T01:51:01.118Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>wqzLorenzo</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://buptwqz.github.io/"/>
+    <link rel="self" href="https://buptwqz.github.io/atom.xml"/>
+    <subtitle>Make Myself Greater Again!</subtitle>
+    <logo>https://img.picui.cn/free/2025/03/10/67ce9cc5d4f36.png</logo>
+    <icon>https://buptwqz.github.io/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2025 © wqzLorenzo</rights>
+    <entry>
+        <title type="html"><![CDATA[ArrayList和LinkedList中的transient关键字和序列化]]></title>
+        <id>https://buptwqz.github.io/posts/Spring中的三级缓存</id>
+        <link href="https://buptwqz.github.io/posts/Spring中的三级缓存"/>
+        <updated>2025-04-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h4>ArrayList和LinkedList中的一些变量被transient修饰</h4>
+<p>ArrayList里的elementData数组被transient修饰，LinkedList里的first和l</p>
+<br/><p>访问 <a href="https://buptwqz.github.io/posts/Spring中的三级缓存" target="_blank">https://buptwqz.github.io/posts/Spring中的三级缓存</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wqzLorenzo</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-04-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TCP IP常见攻击手段]]></title>
+        <id>https://buptwqz.github.io/posts/TCP常见攻击手段</id>
+        <link href="https://buptwqz.github.io/posts/TCP常见攻击手段"/>
+        <updated>2025-04-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h4>IP欺骗</h4>
+<p>IP 欺骗技术就是伪造某台主机的IP地址的技术。通过IP地址的伪装使得某台主机能够伪装另外的一台主机发送数据。</p>
+<h4>SYN Flooding</h4>
+<p>SYN Flood是互联网上</p>
+<br/><p>访问 <a href="https://buptwqz.github.io/posts/TCP常见攻击手段" target="_blank">https://buptwqz.github.io/posts/TCP常见攻击手段</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wqzLorenzo</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-04-02T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日随笔]]></title>
+        <id>https://buptwqz.github.io/posts/250331今日随笔</id>
+        <link href="https://buptwqz.github.io/posts/250331今日随笔"/>
+        <updated>2025-03-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>很遗憾，ICWS被拒稿了and球队也输了一场。磨磨蹭蹭终于把简历搞好了，今天复盘完一个项目，这两天努力把简历内容看一遍就开始投实习了。</p>
+<br/><p>访问 <a href="https://buptwqz.github.io/posts/250331今日随笔" target="_blank">https://buptwqz.github.io/posts/250331今日随笔</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wqzLorenzo</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-03-31T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SQL常用语句]]></title>
+        <id>https://buptwqz.github.io/posts/SQL常用语句</id>
+        <link href="https://buptwqz.github.io/posts/SQL常用语句"/>
+        <updated>2025-03-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h4>登录</h4>
+<pre><code>mysql -u root -p
+</code></pre>
+<h4>查看数据库</h4>
+<pre><code>show databases;
+</code></pre>
+<h4>新建数据库</h4>
+<pre><code>create database</code></pre>
+<br/><p>访问 <a href="https://buptwqz.github.io/posts/SQL常用语句" target="_blank">https://buptwqz.github.io/posts/SQL常用语句</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wqzLorenzo</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-03-25T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[JVM运行机制及原理]]></title>
+        <id>https://buptwqz.github.io/posts/JVM运行机制及原理</id>
+        <link href="https://buptwqz.github.io/posts/JVM运行机制及原理"/>
+        <updated>2025-03-09T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h4>JVM线程：守护线程和普通线程</h4>
+<p>守护线程是JVM自己使用的线程，比如垃圾回收（GC）就是一个守护线程。<br>
+普通线程一般是Java程序的线程，只要JVM中有普通线程在执行，那么JVM就不会</p>
+<br/><p>访问 <a href="https://buptwqz.github.io/posts/JVM运行机制及原理" target="_blank">https://buptwqz.github.io/posts/JVM运行机制及原理</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wqzLorenzo</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-03-24T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日随笔]]></title>
+        <id>https://buptwqz.github.io/posts/250311今日随笔</id>
+        <link href="https://buptwqz.github.io/posts/250311今日随笔"/>
+        <updated>2025-03-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>这两天一直忙着搭建基于Valaxy的博客，其他的啥也没干。总的来看博客也算是差不多了，就是有些前端细节不知道怎么改，后面再学吧。<br>
+下一步计划是做完动态线程池，用ZooKeeper做注册中心，然后加</p>
+<br/><p>访问 <a href="https://buptwqz.github.io/posts/250311今日随笔" target="_blank">https://buptwqz.github.io/posts/250311今日随笔</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wqzLorenzo</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-03-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java算法ACM模式模板]]></title>
+        <id>https://buptwqz.github.io/posts/Java算法ACM模式模板</id>
+        <link href="https://buptwqz.github.io/posts/Java算法ACM模式模板"/>
+        <updated>2025-03-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h4>ACM模式构建二叉树</h4>
+<pre><code class="language-java">import java.util.Scanner;
+public class Solution {
+    static class TreeNode </code></pre>
+<br/><p>访问 <a href="https://buptwqz.github.io/posts/Java算法ACM模式模板" target="_blank">https://buptwqz.github.io/posts/Java算法ACM模式模板</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wqzLorenzo</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-03-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Redis使用单线程的好处]]></title>
+        <id>https://buptwqz.github.io/posts/Redis使用单线程的好处</id>
+        <link href="https://buptwqz.github.io/posts/Redis使用单线程的好处"/>
+        <updated>2025-03-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<h4>Redis中的单线程</h4>
+<ul>
+<li>Redis中的单线程指的是接收请求、解析请求、执行命令、发送响应这四个过程，这四个过程都是在一个线程中完成的。对于Redis程序来说，Redis会启动后台线程处理</li>
+</ul>
+<br/><p>访问 <a href="https://buptwqz.github.io/posts/Redis使用单线程的好处" target="_blank">https://buptwqz.github.io/posts/Redis使用单线程的好处</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wqzLorenzo</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-03-11T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MySQL报错合集]]></title>
+        <id>https://buptwqz.github.io/posts/Mysql报错</id>
+        <link href="https://buptwqz.github.io/posts/Mysql报错"/>
+        <updated>2025-03-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>[[toc]]</p>
+<h4>mysql服务无法启动 服务没有报告任何错误 解决方法</h4>
+<p>1.查看C:\Windows\System32\drivers\etc\hosts 文件，localhost地址有无修</p>
+<br/><p>访问 <a href="https://buptwqz.github.io/posts/Mysql报错" target="_blank">https://buptwqz.github.io/posts/Mysql报错</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wqzLorenzo</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-03-10T00:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java中CPU过高占用排查]]></title>
+        <id>https://buptwqz.github.io/posts/Java中CPU过高占用排查</id>
+        <link href="https://buptwqz.github.io/posts/Java中CPU过高占用排查"/>
+        <updated>2025-03-09T16:00:00.000Z</updated>
+        <content type="html"><![CDATA[<br/><p>访问 <a href="https://buptwqz.github.io/posts/Java中CPU过高占用排查" target="_blank">https://buptwqz.github.io/posts/Java中CPU过高占用排查</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wqzLorenzo</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2025-03-09T16:00:00.000Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[今日随笔]]></title>
+        <id>https://buptwqz.github.io/posts/241028今日随笔</id>
+        <link href="https://buptwqz.github.io/posts/241028今日随笔"/>
+        <updated>2024-10-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>一天又一天，稀松平常。前几天，我意识到我应该学点啥，就像是GitHub的一些贡献者一样，试着做一点东西。比如，我可以学一学计算机相关知识，语言，读更多书，看更多有用的视频。少看手机，多做些事。我想过的</p>
+<br/><p>访问 <a href="https://buptwqz.github.io/posts/241028今日随笔" target="_blank">https://buptwqz.github.io/posts/241028今日随笔</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>wqzLorenzo</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-10-28T00:00:00.000Z</published>
+    </entry>
+</feed>
